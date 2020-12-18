@@ -1,0 +1,72 @@
+/* * * * * * * * * *  INDEX   * * * * * * * * * */
+
+#BrandName {
+    padding-left: 1%;
+}
+
+.text-emphasis {
+    color: #16a085;
+}
+
+.about-container{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+/* highlights section */
+.highlight-media {
+    max-width: 30%;
+    margin-right: 3%;
+    margin-top: 0%;
+} 
+
+/*** Resume & Socials Buttons ***/
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    text-decoration: none;
+    padding: 1%;
+    border-radius: 50%;
+    margin-left: 3%;
+  }
+
+  .fa-linkedin-square{
+    text-decoration: none;
+    margin-left: 3%;
+    vertical-align: middle;
+  }
+
+/*** Overview List: Education, Current, Past ***/
+  
+  .overview-list{
+      list-style-type: none;
+      margin-left: -7%;
+  }
+
+  #minor{
+      margin-bottom: 3%;
+  }
+
+/* * * * * * * * * *   PROJECTS   * * * * * * * * * * */
+
+.project-container{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+.h-project-area{
+    color: #16a085;
+}
+
+
+.footer {
+    width: 100%;
+    padding: 2%;
+    margin-bottom: auto;
+    background-color: grey;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    float: left;
+  }
