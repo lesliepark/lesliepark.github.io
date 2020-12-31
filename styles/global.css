@@ -1,4 +1,4 @@
-/* * * * * * * * * *  INDEX   * * * * * * * * * */
+/* * * * * * * * * *  INDEX // About Page   * * * * * * * * * */
 
 #BrandName {
     padding-left: 1%;
@@ -41,7 +41,7 @@
   
   .overview-list{
       list-style-type: none;
-      margin-left: -7%;
+      padding-left: 0;
   }
 
   #minor{
@@ -59,6 +59,8 @@
     color: #16a085;
 }
 
+
+/* * * * * * * * * *  Global Styles // Used on various pages  * * * * * * * * * */
 
 .footer {
     width: 100%;
