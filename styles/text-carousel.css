@@ -21,7 +21,8 @@ body {
   height: 160px;
   overflow: hidden;
  /* font-family: 'Lato', sans-serif; */
-  font-size: 35px;
+ /* font-size: 35px; */
+  font-size: 125%;
   line-height: 40px;
   color: #808080;
 }
@@ -44,7 +45,8 @@ body {
   position: absolute;
   top: 0;
   color: #16a085;
-  font-size: 42px;
+  /* font-size: 42px;  */
+  font-size: 150%;
   line-height: 40px;
   -webkit-animation-name: opacity;
   -webkit-animation-duration: 2s;
